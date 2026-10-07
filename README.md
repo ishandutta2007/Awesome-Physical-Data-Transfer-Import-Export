@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Physical-Data-Transfer-Import-Export"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Physical-Data-Transfer-Import-Export?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Physical-Data-Transfer-Import-Export"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Physical-Data-Transfer-Import-Export?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Physical-Data-Transfer-Import-Export/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Physical-Data-Transfer-Import-Export?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Physical-Data-Transfer-Import-Export/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -65,7 +65,7 @@ This repository tracks premier **commercial physical data transfer platforms** a
 
 ## 🔓 Open-Source GitHub Projects 🌟
 
-*Repositories are sorted by GitHub Star Count (descending). Click the star badge beside any project to view its stargazers.*
+*Repositories are sorted by GitHub Stars_Count (descending). Click the Stars_Badge beside any project to view its stargazers.*
 
 1. **[Syncthing](https://github.com/syncthing/syncthing)** [<img src="https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white" alt="Syncthing Stars"/>](https://github.com/syncthing/syncthing/stargazers)  
    🔄 **Continuous peer-to-peer file synchronization** — decentralized architecture with TLS encryption, cross-platform support, and intuitive web UI. **Best for continuous device-to-device sync without third-party servers**.
@@ -130,7 +130,7 @@ Contributions from data engineers, cloud architects, and storage maintainers are
 
 1. 🍴 Fork this repository.
 2. ➕ Add or update entries in `README.md` maintaining standard Markdown formatting and accurate links.
-3. 📝 Include project name, GitHub link, star badge, short factual description, and primary use-case.
+3. 📝 Include project name, GitHub link, Stars_Badge, short factual description, and primary use-case.
 4. 🚀 Open a Pull Request detailing your changes.
 
 Check out our full collection of curated resources at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)! ⭐
